@@ -5,7 +5,12 @@
 
 ## Overview
 
-This project analyzes transactional e-commerce data to identify the **key drivers of revenue growth**, evaluate customer behavior, and assess **long-term business sustainability**.
+This project analyzes transactional e-commerce data to identify the **key drivers of revenue growth**, evaluate customer behavior, and assess **long-term business sustainability** using SQL and Power BI.
+
+The dataset used for this analysis is the **Brazilian E-commerce Public Dataset by Olist**, sourced from Kaggle:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Due to repository size constraints, raw data files are not included. All analyses are performed on processed datasets derived from the original source.
 
 The analysis decomposes revenue into its core components to determine whether growth is driven by **order volume, pricing, or customer acquisition dynamics**.
 
